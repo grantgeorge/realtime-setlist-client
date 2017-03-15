@@ -4,5 +4,4 @@ import App from '../containers/app';
 
 export default (
   <Route path="/" component={ App } />
-  {/* <Route path="/artist" component={ App } /> */}
 );
